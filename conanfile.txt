@@ -7,7 +7,7 @@ ubitrack_lang_python/1.3.0@ubitrack/stable
 ubitrack:with_default_camera=True
 ubitrack:with_camera_flycapture=False
 ubitrack:with_haptic_calibration=True
-ubitrack_lang_python:python=/usr/local/bin/python3.6
+python_dev_config:python=/usr/local/bin/python3.6
 
 [generators]
 ubitrack_virtualenv_generator
